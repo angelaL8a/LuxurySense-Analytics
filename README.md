@@ -27,6 +27,7 @@ This project focuses on analyzing the perception, historical relevance, entities
 ![newplot5](/demostrateIMGS/newplot5.png)
 ![newplot6](/demostrateIMGS/newplot6.png)
 ![newplot7](/demostrateIMGS/newplot7.png)
+https://github.com/angelaL8a/LuxurySense-Analytics/blob/main/REPORT.ipynb
 
 ## Installation and Setup
 
