@@ -20,13 +20,13 @@ This project focuses on analyzing the perception, historical relevance, entities
 
 ## Reference Images
 
-![newplot]()
-![newplot2]()
-![newplot3]()
-![newplot4]()
-![newplot5]()
-![newplot6]()
-![newplot7]()
+![newplot](/demostrateIMGS/newplot.png)
+![newplot2](/demostrateIMGS/newplot2.png)
+![newplot3](/demostrateIMGS/newplot3.png)
+![newplot4](/demostrateIMGS/newplot4.png)
+![newplot5](/demostrateIMGS/newplot5.png)
+![newplot6](/demostrateIMGS/newplot6.png)
+![newplot7](/demostrateIMGS/newplot7.png)
 
 ## Installation and Setup
 
